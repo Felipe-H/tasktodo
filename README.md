@@ -1,3 +1,11 @@
+# Apresentação 
+Este aplicativo Task To Do é desenvolvido utilizando a tecnologia React JS, uma das mais modernas e avançadas no mundo do desenvolvimento web. Além de ser uma ferramenta eficiente para gerenciar suas tarefas diárias, ele também serve como uma plataforma para aprender e entender as funcionalidades e a estrutura do React JS. Com uma interface simples e intuitiva, você pode criar, editar e excluir tarefas de maneira fácil e rápida.
+
+Este projeto Task To Do não apenas é uma ferramenta útil para gerenciar suas tarefas, mas também é um projeto de estudo que visa ensinar e aprimorar minhas habilidades em React JS
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
